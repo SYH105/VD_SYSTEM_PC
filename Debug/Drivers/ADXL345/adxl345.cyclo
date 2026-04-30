@@ -1,0 +1,3 @@
+../Drivers/ADXL345/adxl345.c:17:19:ADXL345_Write	1
+../Drivers/ADXL345/adxl345.c:40:9:ADXL345_Init	3
+../Drivers/ADXL345/adxl345.c:68:19:ADXL345_ReadXYZ	2

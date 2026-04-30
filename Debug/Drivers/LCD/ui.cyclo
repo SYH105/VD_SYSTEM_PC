@@ -1,0 +1,10 @@
+../Drivers/LCD/ui.c:24:6:UI_DrawMainMenu	3
+../Drivers/LCD/ui.c:84:6:UI_DrawMeasureSlots	4
+../Drivers/LCD/ui.c:140:6:UI_DrawSaveSlots	6
+../Drivers/LCD/ui.c:204:6:UI_DrawLoadSlots	4
+../Drivers/LCD/ui.c:261:6:UI_DrawDeletePopup	1
+../Drivers/LCD/ui.c:289:6:UI_DrawSettingsMenu	7
+../Drivers/LCD/ui.c:369:6:UI_DrawLegend	1
+../Drivers/LCD/ui.c:388:6:UI_DrawPCMode	1
+../Drivers/LCD/ui.c:426:6:UI_UpdatePCStatus	5
+../Drivers/LCD/ui.c:454:6:UI_UpdatePCAnimation	5

@@ -1,0 +1,8 @@
+../App/App/app.c:105:6:App_Init	8	static
+../App/App/app.c:117:6:App_Update	1136	static
+../App/App/app.c:726:13:Save_LoadSlotStatus	24	static
+../App/App/app.c:743:13:Save_WriteSlot	24	static
+../App/App/app.c:755:13:Load_ReadSlot	24	static
+../App/App/app.c:763:14:Load_CalcPeak	32	static
+../App/App/app.c:787:13:Load_DeleteSlot	24	static
+../App/App/app.c:797:12:CompareFFT	88	static

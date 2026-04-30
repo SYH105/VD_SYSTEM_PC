@@ -1,0 +1,12 @@
+../Drivers/LCD/lcd.c:25:13:LCD_DrawGrid	4
+../Drivers/LCD/lcd.c:51:6:LCD_DrawFFT	3
+../Drivers/LCD/lcd.c:95:6:LCD_DrawFFT_Area	7
+../Drivers/LCD/lcd.c:171:6:LCD_DrawUIFrame	1
+../Drivers/LCD/lcd.c:219:6:LCD_UpdateStatus	1
+../Drivers/LCD/lcd.c:235:6:LCD_UpdateCount	2
+../Drivers/LCD/lcd.c:254:6:LCD_ClearTopBar	1
+../Drivers/LCD/lcd.c:266:6:LCD_DrawFFTProgress	6
+../Drivers/LCD/lcd.c:319:6:LCD_ResetFFTProgress	1
+../Drivers/LCD/lcd.c:330:6:LCD_UpdateLoadStatus	1
+../Drivers/LCD/lcd.c:349:6:LCD_DrawResult	4
+../Drivers/LCD/lcd.c:364:6:LCD_ClearScreen	1

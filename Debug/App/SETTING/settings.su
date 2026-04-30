@@ -1,0 +1,3 @@
+../App/SETTING/settings.c:21:6:Settings_SetDefault	4	static
+../App/SETTING/settings.c:35:6:Settings_Load	8	static
+../App/SETTING/settings.c:67:6:Settings_Save	8	static

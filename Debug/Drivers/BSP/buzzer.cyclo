@@ -1,0 +1,7 @@
+../Drivers/BSP/buzzer.c:10:20:BUZZER_WRITE	1
+../Drivers/BSP/buzzer.c:17:6:Buzzer_Init	1
+../Drivers/BSP/buzzer.c:23:6:Buzzer_On	1
+../Drivers/BSP/buzzer.c:28:6:Buzzer_Off	1
+../Drivers/BSP/buzzer.c:33:6:Buzzer_Toggle	1
+../Drivers/BSP/buzzer.c:40:6:Buzzer_Beep	1
+../Drivers/BSP/buzzer.c:47:6:Buzzer_Beep2	2

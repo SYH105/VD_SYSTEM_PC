@@ -1,0 +1,11 @@
+../Drivers/Flash/w25q16.c:23:13:CS_LOW	1
+../Drivers/Flash/w25q16.c:28:13:CS_HIGH	1
+../Drivers/Flash/w25q16.c:33:13:SPI_TX	1
+../Drivers/Flash/w25q16.c:38:13:SPI_RX	1
+../Drivers/Flash/w25q16.c:45:13:WriteEnable	1
+../Drivers/Flash/w25q16.c:54:9:W25Q16_IsBusy	1
+../Drivers/Flash/w25q16.c:67:13:WaitBusy	2
+../Drivers/Flash/w25q16.c:75:10:W25Q16_ReadID	1
+../Drivers/Flash/w25q16.c:88:6:W25Q16_Read	1
+../Drivers/Flash/w25q16.c:103:6:W25Q16_EraseSector	1
+../Drivers/Flash/w25q16.c:121:6:W25Q16_Write	3

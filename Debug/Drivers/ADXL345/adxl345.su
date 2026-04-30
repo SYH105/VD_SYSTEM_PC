@@ -1,0 +1,3 @@
+../Drivers/ADXL345/adxl345.c:17:19:ADXL345_Write	32	static
+../Drivers/ADXL345/adxl345.c:40:9:ADXL345_Init	32	static
+../Drivers/ADXL345/adxl345.c:68:19:ADXL345_ReadXYZ	48	static

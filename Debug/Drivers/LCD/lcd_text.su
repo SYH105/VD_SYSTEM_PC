@@ -1,0 +1,2 @@
+../Drivers/LCD/lcd_text.c:4:6:LCD_DrawChar	32	static
+../Drivers/LCD/lcd_text.c:28:6:LCD_DrawString	32	static

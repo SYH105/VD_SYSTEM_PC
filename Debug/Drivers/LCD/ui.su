@@ -1,0 +1,10 @@
+../Drivers/LCD/ui.c:24:6:UI_DrawMainMenu	64	static
+../Drivers/LCD/ui.c:84:6:UI_DrawMeasureSlots	48	static
+../Drivers/LCD/ui.c:140:6:UI_DrawSaveSlots	48	static
+../Drivers/LCD/ui.c:204:6:UI_DrawLoadSlots	48	static
+../Drivers/LCD/ui.c:261:6:UI_DrawDeletePopup	48	static
+../Drivers/LCD/ui.c:289:6:UI_DrawSettingsMenu	64	static
+../Drivers/LCD/ui.c:369:6:UI_DrawLegend	16	static
+../Drivers/LCD/ui.c:388:6:UI_DrawPCMode	16	static
+../Drivers/LCD/ui.c:426:6:UI_UpdatePCStatus	24	static
+../Drivers/LCD/ui.c:454:6:UI_UpdatePCAnimation	64	static
